@@ -61,6 +61,8 @@
     <orderEntry type="library" name="Maven: org.ini4j:ini4j:0.5.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.8.2" level="project" />
     <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b5" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.jersey:jersey-client:1.13" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.jersey:jersey-core:1.13" level="project" />
     <orderEntry type="library" name="Maven: org.apache.directory.studio:org.apache.commons.collections:3.2.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.directory.studio:org.apache.commons.io:2.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.directory.studio:org.apache.commons.lang:2.6" level="project" />

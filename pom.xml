@@ -5,7 +5,12 @@
   <groupId>com.sayem</groupId>
   <artifactId>Facebook</artifactId>
   <version>1.0</version>
-  <packaging>jar</packaging>
+    <modules>
+        <module>Java</module>
+        <module>Locators</module>
+        <module>PageObject</module>
+    </modules>
+    <packaging>pom</packaging>
 
   <name>Facebook</name>
   <url>http://maven.apache.org</url>
@@ -61,6 +66,13 @@
             <artifactId>commons-codec</artifactId>
             <version>20041127.091804</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.sun.jersey</groupId>
+            <artifactId>jersey-client</artifactId>
+            <version>1.13</version>
+        </dependency>
+
 
         <dependency>
             <groupId>org.apache.directory.studio</groupId>
