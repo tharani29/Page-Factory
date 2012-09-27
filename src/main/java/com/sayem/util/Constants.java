@@ -40,14 +40,4 @@ public class Constants {
     public static final String confirmPassword = "//*[@id='password_confirm']";
     public static final String saveChangeButton = "//*[@class='submit uiButtonDisabled uiButton uiButtonConfirm']";
 
-
-
-
-
-
-
-
-
-
-
 }
